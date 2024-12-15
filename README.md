@@ -3,8 +3,8 @@
  This project presents a meticulously curated dataset comprising images captured by a remotely operated vehicle (ROV) during deep-sea expeditions. The images feature 62 distinct classes of biota.Showcase your amazing deep learning abilities and help unlock the secrets of deep-sea biodiversity! 🌊✨
 
 ## **Instructions**
-- 1.For any concept/technique refer articles available on internet rather than using ChatGPT, as it may be misleading and many times provide only half information.
-- 2.Write commnets for what you did so that mentors can easy understand your work.
+- For any concept/technique refer articles available on internet rather than using ChatGPT, as it may be misleading and many times provide only half information.
+- Write commnets for what you did so that mentors can easy understand your work.
 
 ##  **Procedure**  
 
