@@ -8,12 +8,11 @@ This project presents a meticulously curated dataset comprising images captured 
 -Write commnets for what you did so that mentors can easy understand your work.
 
 ##Procedure
-1.Download the dataset from the link given in DataSet.md
-2.Once task is completed download .ipynb file and store it in respective folder.
-3.Name your file as Enrollment no.
-    For task1 store final file in Task1_solution with file name IIT2022119.
-4.Push this file to forked repo and then send PR.
-5.Your PR will be reviwed by the mentors. Once your PR is accepted, file will be merged and points will be granted
+1.Download the dataset from the provided link.
+2.Fork the repo and add any notebook(.ipynb file) as needed to the forked repo.
+3.Create a PR. As per the issue or the pre-decided rule, the most relevant PR will be merged.
+4.Name the file starting with your roll no
+5.Push the solutions in the assigned folder only. For ex- the .ipynb file for the Task1 mus be pushed to the folder solution_Task1 only.
 
 
 ##Help
