@@ -1,0 +1,4 @@
+Model was greater than 25mb limit of Github, So uploaded on GDrive
+
+Model: https://drive.google.com/file/d/1sO-01Nbbor0RyjpAuo9meK2UWdtxjJuh/view?usp=sharing
+Training_history JSON file : https://drive.google.com/file/d/1YbcJ3XXaYu1GZdoR9di8p9LdsqO4649a/view?usp=sharing 
