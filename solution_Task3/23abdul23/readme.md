@@ -9,3 +9,4 @@ After this I have used train_augmented as the training set, where using the augm
 3. 1024, 0.0001, 1800, 0.3, 0.35 , train augmented ----> 0.71
 4. 1024, 0.0001, 1900, 0.25, 0.4 , train augmented ----> 0.79
 
+Best Model is uploaded on Gdrive, link is provided in -->model.txt
